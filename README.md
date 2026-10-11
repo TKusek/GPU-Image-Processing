@@ -71,8 +71,6 @@ Build commands and additional setup instructions might be added as the project d
 
 ## Results
 
-## Results
-
 The implementations were benchmarked using a 1920 × 1080 RGB image for a total of 2,073,600 pixels. Each configuration was measured 20 times after 3 warm-up runs. The reported values represent the average processing time measured internally by each program, excluding process startup and other work outside the measured processing section. Kernel setup time and other can be shown by starting each compiled program individually, and may differ after a couple executions.
 
 ### Average Processing Time
